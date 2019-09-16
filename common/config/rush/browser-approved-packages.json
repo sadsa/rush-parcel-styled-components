@@ -7,6 +7,26 @@
       "allowedCategories": [ "production" ]
     },
     {
+      "name": "parcel",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "react",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "react-app-polyfill",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "react-dom",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "styled-components",
+      "allowedCategories": [ "production" ]
+    },
+    {
       "name": "whatwg-fetch",
       "allowedCategories": [ "production" ]
     }
